@@ -1,6 +1,6 @@
 //
 //  IO_Practise2.cpp
-//  HDU_OJ
+//  HDU-OJ
 //
 //  Created by Vincen on 12-11-15.
 //  Copyright (c) 2012年 Vincen. All rights reserved.

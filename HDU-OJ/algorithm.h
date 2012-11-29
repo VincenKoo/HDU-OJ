@@ -1,6 +1,6 @@
 //
 //  algorithm.h
-//  HDU_OJ
+//  HDU-OJ
 //
 //  Created by Vincen on 12-11-15.
 //  Copyright (c) 2012年 Vincen. All rights reserved.
@@ -35,5 +35,6 @@ DECLARE_FUNC(P1000);
 DECLARE_FUNC(P1001);
 DECLARE_FUNC(P1002);
 DECLARE_FUNC(P1003);
+DECLARE_FUNC(P1160);
 
 #endif

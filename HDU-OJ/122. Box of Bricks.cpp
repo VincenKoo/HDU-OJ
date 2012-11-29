@@ -1,6 +1,6 @@
 //
 //  122. Box of Bricks.cpp
-//  HDU_OJ
+//  HDU-OJ
 //
 //  Created by Vincen on 12-11-15.
 //  Copyright (c) 2012年 Vincen. All rights reserved.
@@ -15,11 +15,6 @@
 #include <iostream>
 #include <cstdlib>
 using namespace std;
-
-int vcmp(const void* a, const void* b)
-{
-    return *(int*)b - *(int*)a;
-}
 
 int P122(void)
 {

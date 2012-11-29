@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  HDU_OJ
+//  HDU-OJ
 //
 //  Created by Vincen on 12-11-15.
 //  Copyright (c) 2012年 Vincen. All rights reserved.
@@ -18,7 +18,7 @@ int main(int argc, const char * argv[])
     // insert code here...
     std::cout << "Running..." << std::endl;
     
-    CALL_FUNC(P1003);
+    CALL_FUNC(P1160);
     
     std::cout << "Exit!" << std::endl;
     return 0;
