@@ -52,6 +52,7 @@ int P1003(void)
         for (int j = 2; j <= N; ++j) {
             cin >> v[j];
             // D(n) = max(D(n-1)+Xn, Xn)
+            // D(n-1) can be optimized to a tmp variable
             seq[j] = max(seq[j-1]+v[j], v[j]);
             // select the max D(n)
             if (seq[j] > seq[end]) {
