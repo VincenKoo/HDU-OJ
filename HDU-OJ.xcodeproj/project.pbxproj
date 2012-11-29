@@ -9,6 +9,27 @@
 /* Begin PBXBuildFile section */
 		4E7699961667A166008EA718 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699951667A166008EA718 /* main.cpp */; };
 		4E7699981667A166008EA718 /* HDU_OJ.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 4E7699971667A166008EA718 /* HDU_OJ.1 */; };
+		4E7699B41667A21C008EA718 /* 121. Text Reverse.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E76999E1667A21C008EA718 /* 121. Text Reverse.cpp */; };
+		4E7699B51667A21C008EA718 /* 122. Box of Bricks.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E76999F1667A21C008EA718 /* 122. Box of Bricks.cpp */; };
+		4E7699B61667A21C008EA718 /* 123. Higher Math.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699A01667A21C008EA718 /* 123. Higher Math.cpp */; };
+		4E7699B71667A21C008EA718 /* 124. Balloon Comes.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699A11667A21C008EA718 /* 124. Balloon Comes.cpp */; };
+		4E7699B81667A21C008EA718 /* 125. Decimal System.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699A21667A21C008EA718 /* 125. Decimal System.cpp */; };
+		4E7699B91667A21C008EA718 /* 126. Specialized Four-Digit Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699A31667A21C008EA718 /* 126. Specialized Four-Digit Numbers.cpp */; };
+		4E7699BA1667A21C008EA718 /* 127. Identity Card.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699A41667A21C008EA718 /* 127. Identity Card.cpp */; };
+		4E7699BB1667A21C008EA718 /* 128. AC Me.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699A51667A21C008EA718 /* 128. AC Me.cpp */; };
+		4E7699BC1667A21C008EA718 /* 1000. A + B Problem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699A61667A21C008EA718 /* 1000. A + B Problem.cpp */; };
+		4E7699BD1667A21C008EA718 /* 1001. Sum Problem.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699A71667A21C008EA718 /* 1001. Sum Problem.cpp */; };
+		4E7699BE1667A21C008EA718 /* 1002. A + B Problem II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699A81667A21C008EA718 /* 1002. A + B Problem II.cpp */; };
+		4E7699BF1667A21C008EA718 /* 1003. Max Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699A91667A21C008EA718 /* 1003. Max Sum.cpp */; };
+		4E7699C01667A21C008EA718 /* 1009. K-based Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699AA1667A21C008EA718 /* 1009. K-based Numbers.cpp */; };
+		4E7699C11667A21C008EA718 /* IO_Practice1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699AC1667A21C008EA718 /* IO_Practice1.cpp */; };
+		4E7699C21667A21C008EA718 /* IO_Practice2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699AD1667A21C008EA718 /* IO_Practice2.cpp */; };
+		4E7699C31667A21C008EA718 /* IO_Practice3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699AE1667A21C008EA718 /* IO_Practice3.cpp */; };
+		4E7699C41667A21C008EA718 /* IO_Practice4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699AF1667A21C008EA718 /* IO_Practice4.cpp */; };
+		4E7699C51667A21C008EA718 /* IO_Practice5.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699B01667A21C008EA718 /* IO_Practice5.cpp */; };
+		4E7699C61667A21C008EA718 /* IO_Practice6.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699B11667A21C008EA718 /* IO_Practice6.cpp */; };
+		4E7699C71667A21C008EA718 /* IO_Practice7.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699B21667A21C008EA718 /* IO_Practice7.cpp */; };
+		4E7699C81667A21C008EA718 /* sample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4E7699B31667A21C008EA718 /* sample.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +49,28 @@
 		4E7699911667A166008EA718 /* HDU-OJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "HDU-OJ"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E7699951667A166008EA718 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		4E7699971667A166008EA718 /* HDU_OJ.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = HDU_OJ.1; sourceTree = "<group>"; };
+		4E76999E1667A21C008EA718 /* 121. Text Reverse.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "121. Text Reverse.cpp"; path = "HDU-OJ/121. Text Reverse.cpp"; sourceTree = "<group>"; };
+		4E76999F1667A21C008EA718 /* 122. Box of Bricks.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "122. Box of Bricks.cpp"; path = "HDU-OJ/122. Box of Bricks.cpp"; sourceTree = "<group>"; };
+		4E7699A01667A21C008EA718 /* 123. Higher Math.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "123. Higher Math.cpp"; path = "HDU-OJ/123. Higher Math.cpp"; sourceTree = "<group>"; };
+		4E7699A11667A21C008EA718 /* 124. Balloon Comes.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "124. Balloon Comes.cpp"; path = "HDU-OJ/124. Balloon Comes.cpp"; sourceTree = "<group>"; };
+		4E7699A21667A21C008EA718 /* 125. Decimal System.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "125. Decimal System.cpp"; path = "HDU-OJ/125. Decimal System.cpp"; sourceTree = "<group>"; };
+		4E7699A31667A21C008EA718 /* 126. Specialized Four-Digit Numbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "126. Specialized Four-Digit Numbers.cpp"; path = "HDU-OJ/126. Specialized Four-Digit Numbers.cpp"; sourceTree = "<group>"; };
+		4E7699A41667A21C008EA718 /* 127. Identity Card.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "127. Identity Card.cpp"; path = "HDU-OJ/127. Identity Card.cpp"; sourceTree = "<group>"; };
+		4E7699A51667A21C008EA718 /* 128. AC Me.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "128. AC Me.cpp"; path = "HDU-OJ/128. AC Me.cpp"; sourceTree = "<group>"; };
+		4E7699A61667A21C008EA718 /* 1000. A + B Problem.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "1000. A + B Problem.cpp"; path = "HDU-OJ/1000. A + B Problem.cpp"; sourceTree = "<group>"; };
+		4E7699A71667A21C008EA718 /* 1001. Sum Problem.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "1001. Sum Problem.cpp"; path = "HDU-OJ/1001. Sum Problem.cpp"; sourceTree = "<group>"; };
+		4E7699A81667A21C008EA718 /* 1002. A + B Problem II.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "1002. A + B Problem II.cpp"; path = "HDU-OJ/1002. A + B Problem II.cpp"; sourceTree = "<group>"; };
+		4E7699A91667A21C008EA718 /* 1003. Max Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "1003. Max Sum.cpp"; path = "HDU-OJ/1003. Max Sum.cpp"; sourceTree = "<group>"; };
+		4E7699AA1667A21C008EA718 /* 1009. K-based Numbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = "1009. K-based Numbers.cpp"; path = "HDU-OJ/1009. K-based Numbers.cpp"; sourceTree = "<group>"; };
+		4E7699AB1667A21C008EA718 /* algorithm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = algorithm.h; path = "HDU-OJ/algorithm.h"; sourceTree = "<group>"; };
+		4E7699AC1667A21C008EA718 /* IO_Practice1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = IO_Practice1.cpp; path = "HDU-OJ/IO_Practice1.cpp"; sourceTree = "<group>"; };
+		4E7699AD1667A21C008EA718 /* IO_Practice2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = IO_Practice2.cpp; path = "HDU-OJ/IO_Practice2.cpp"; sourceTree = "<group>"; };
+		4E7699AE1667A21C008EA718 /* IO_Practice3.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = IO_Practice3.cpp; path = "HDU-OJ/IO_Practice3.cpp"; sourceTree = "<group>"; };
+		4E7699AF1667A21C008EA718 /* IO_Practice4.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = IO_Practice4.cpp; path = "HDU-OJ/IO_Practice4.cpp"; sourceTree = "<group>"; };
+		4E7699B01667A21C008EA718 /* IO_Practice5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = IO_Practice5.cpp; path = "HDU-OJ/IO_Practice5.cpp"; sourceTree = "<group>"; };
+		4E7699B11667A21C008EA718 /* IO_Practice6.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = IO_Practice6.cpp; path = "HDU-OJ/IO_Practice6.cpp"; sourceTree = "<group>"; };
+		4E7699B21667A21C008EA718 /* IO_Practice7.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = IO_Practice7.cpp; path = "HDU-OJ/IO_Practice7.cpp"; sourceTree = "<group>"; };
+		4E7699B31667A21C008EA718 /* sample.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = sample.cpp; path = "HDU-OJ/sample.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +87,28 @@
 		4E7699861667A166008EA718 = {
 			isa = PBXGroup;
 			children = (
+				4E76999E1667A21C008EA718 /* 121. Text Reverse.cpp */,
+				4E76999F1667A21C008EA718 /* 122. Box of Bricks.cpp */,
+				4E7699A01667A21C008EA718 /* 123. Higher Math.cpp */,
+				4E7699A11667A21C008EA718 /* 124. Balloon Comes.cpp */,
+				4E7699A21667A21C008EA718 /* 125. Decimal System.cpp */,
+				4E7699A31667A21C008EA718 /* 126. Specialized Four-Digit Numbers.cpp */,
+				4E7699A41667A21C008EA718 /* 127. Identity Card.cpp */,
+				4E7699A51667A21C008EA718 /* 128. AC Me.cpp */,
+				4E7699A61667A21C008EA718 /* 1000. A + B Problem.cpp */,
+				4E7699A71667A21C008EA718 /* 1001. Sum Problem.cpp */,
+				4E7699A81667A21C008EA718 /* 1002. A + B Problem II.cpp */,
+				4E7699A91667A21C008EA718 /* 1003. Max Sum.cpp */,
+				4E7699AA1667A21C008EA718 /* 1009. K-based Numbers.cpp */,
+				4E7699AB1667A21C008EA718 /* algorithm.h */,
+				4E7699AC1667A21C008EA718 /* IO_Practice1.cpp */,
+				4E7699AD1667A21C008EA718 /* IO_Practice2.cpp */,
+				4E7699AE1667A21C008EA718 /* IO_Practice3.cpp */,
+				4E7699AF1667A21C008EA718 /* IO_Practice4.cpp */,
+				4E7699B01667A21C008EA718 /* IO_Practice5.cpp */,
+				4E7699B11667A21C008EA718 /* IO_Practice6.cpp */,
+				4E7699B21667A21C008EA718 /* IO_Practice7.cpp */,
+				4E7699B31667A21C008EA718 /* sample.cpp */,
 				4E7699941667A166008EA718 /* HDU-OJ */,
 				4E7699921667A166008EA718 /* Products */,
 			);
@@ -118,6 +183,27 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E7699961667A166008EA718 /* main.cpp in Sources */,
+				4E7699B41667A21C008EA718 /* 121. Text Reverse.cpp in Sources */,
+				4E7699B51667A21C008EA718 /* 122. Box of Bricks.cpp in Sources */,
+				4E7699B61667A21C008EA718 /* 123. Higher Math.cpp in Sources */,
+				4E7699B71667A21C008EA718 /* 124. Balloon Comes.cpp in Sources */,
+				4E7699B81667A21C008EA718 /* 125. Decimal System.cpp in Sources */,
+				4E7699B91667A21C008EA718 /* 126. Specialized Four-Digit Numbers.cpp in Sources */,
+				4E7699BA1667A21C008EA718 /* 127. Identity Card.cpp in Sources */,
+				4E7699BB1667A21C008EA718 /* 128. AC Me.cpp in Sources */,
+				4E7699BC1667A21C008EA718 /* 1000. A + B Problem.cpp in Sources */,
+				4E7699BD1667A21C008EA718 /* 1001. Sum Problem.cpp in Sources */,
+				4E7699BE1667A21C008EA718 /* 1002. A + B Problem II.cpp in Sources */,
+				4E7699BF1667A21C008EA718 /* 1003. Max Sum.cpp in Sources */,
+				4E7699C01667A21C008EA718 /* 1009. K-based Numbers.cpp in Sources */,
+				4E7699C11667A21C008EA718 /* IO_Practice1.cpp in Sources */,
+				4E7699C21667A21C008EA718 /* IO_Practice2.cpp in Sources */,
+				4E7699C31667A21C008EA718 /* IO_Practice3.cpp in Sources */,
+				4E7699C41667A21C008EA718 /* IO_Practice4.cpp in Sources */,
+				4E7699C51667A21C008EA718 /* IO_Practice5.cpp in Sources */,
+				4E7699C61667A21C008EA718 /* IO_Practice6.cpp in Sources */,
+				4E7699C71667A21C008EA718 /* IO_Practice7.cpp in Sources */,
+				4E7699C81667A21C008EA718 /* sample.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
